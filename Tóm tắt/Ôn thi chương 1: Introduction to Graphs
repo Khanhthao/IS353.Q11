@@ -1,1 +1,48 @@
-
+LECTURE 1: INTRODUCTION TO GRAPHS
+* Overview of networks, some social principles and network concepts.
+* Real - world examples and applications.
+- Why networks: Networks are a general language for describing complex systems.
+- The network indicates the similarities of many complex systems all around us:
++ Society is a collection of 7+ billion individuals.
++ Communication systems link electronic devices.
++ Information and knowledge are organized and linked.
++ Interactions between thousands of genes/proteins regulate life.
++ Our thoughts are hidden in the connections between billions of neurons in our brain.
+- Behind many systems, there is an intricate wiring diagram, a network, that defines the interactions between the components.
+- Many types of data are networks:
++ Social networks
++ Information networks: Web and citations.
++ Economic networks
++ Internet
++ Communication networks
++ Networks of neurons
++ Patient networks
++ Hierarchies of cell systems
++ Disease pathways
++ Genetic interaction networks
++ Gene co-expression networks
++ Cell - cell similarity networks
+- Ways to analyze Networks: 
++ Predict the type/color of a given node: Node classification
++ Predict whether two nodes are linked: Link prediction
++ Identify desenly linked clusters of nodes: Community detection
++ Measure similarity of two nodes/networks: Network similarity
+- Application of Networks:
++ (1): Networks: Social: Facebook social graph: Social Circle Detection
++ (2): Networks: Infrastructure
+  . Understand how network structure affects the robustness of a system
+  . Develop quantitative tools to assess the interplay betweeen the network structure and dynamical processes on the networks, and their impact on failures.
++ (3): Networks: Information, Knowledge: Knowledge, Heterogeneous, Multimodal Graphs
+  . Application: Misinformation, Link Prediction: Content recommendation.
++ (4): Networks: Online Media: Polarization on Twitter and Predicting Virality or Product Adoption.
++ (5): Networks: Biology: Function Prediction: Classifying the function of proteins in the interactome.
+- Why studying Networks: 
++ Patterns and statistical properties of network data
++ Design principles and models.
++ Algorithms and predictive models to answer questions and make predictions.
+- How mining Networks:
++ Empirically: Find organizational principles:
+  . How do we measure and quantify networks?
++ w/Mathematical Model: Graph theory and statistic models
+  . Models allow us to understand behaviors and distinguish suprising from expected phenomena.
++ w/Algorithms for Analyzing graphs: Hard computational challenges.
